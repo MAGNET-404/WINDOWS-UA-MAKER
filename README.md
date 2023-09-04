@@ -9,6 +9,7 @@
 --×🔶×-- 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 --×🔶×-- 👇
 
 
+
 rm -rf WINDOWS-UA-MAKER
 
 git clone --depth=1        https://github.com✴️/MAGNET-404/WINDOWS-UA-MAKER✴️.git
@@ -18,6 +19,7 @@ git pull
 cd WINDOWS-UA-MAKER
 
 python WINDOWS-UA-MAKER✴️.py
+
 
 
 ⚠️-× NOTE ×- REMOVE--EMOJI••✴️••THEN RUN
